@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujatro Das</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img src="https://res.cloudinary.com/dniit1vkd/image/upload/v1758126350/sujatrodasgithub_v4nhs4.png" alt="Sujatro Das Coding" width="100%"/>
+<img align="center" src="https://res.cloudinary.com/dniit1vkd/image/upload/v1758126350/sujatrodasgithub_v4nhs4.png" alt="Sujatro Das Coding" width="50%" height="50%"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujatrodas96&label=Profile%20views&color=0e75b6&style=flat" alt="sujatrodas96" /> </p>
 
